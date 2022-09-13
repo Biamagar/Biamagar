@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Biamagar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..
-You can click the Preview link to take
+- 👋 olá, eu sou a Bia 
+- 👀 sou interessada em series, musicas, livros e cursos 
+- 🌱 estou aprendendo o basico sobre programação
+-    beatriz.magari@escola.pr.gov.br
