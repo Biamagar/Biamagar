@@ -1,4 +1,4 @@
-- 👋 olá, eu sou a Bia 
-- 👀 sou interessada em series, musicas, livros e cursos 
-- 🌱 estou aprendendo o basico sobre programação
--    beatriz.magari@escola.pr.gov.br   
+- :sparkles: olá, eu sou a Bia 
+- :books: sou interessada em series, musicas, livros e cursos 
+- :pushpin: estou aprendendo o basico sobre programação
+- :postbox: beatriz.magari@escola.pr.gov.br   
